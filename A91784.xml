@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great and grievous oppression of the subject; exhibited in a remonstrance to the Parliament: wherein-is more particularly set forth, the unjust dealings of the two corporations of Hull and Headon in the county of York. By Robert Raikes Gent.</title>
+            <author>Raikes, Robert, of Headon.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91784</idno>
+            <idno type="STC">Wing R138</idno>
+            <idno type="STC">Thomason E989_14</idno>
+            <idno type="STC">ESTC R208201</idno>
+            <idno type="EEBO-CITATION">99867173</idno>
+            <idno type="PROQUEST">99867173</idno>
+            <idno type="VID">119467</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119467)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E989[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great and grievous oppression of the subject; exhibited in a remonstrance to the Parliament: wherein-is more particularly set forth, the unjust dealings of the two corporations of Hull and Headon in the county of York. By Robert Raikes Gent.</title>
+                  <author>Raikes, Robert, of Headon.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119467:1" rendition="simple:additions"/>
+            <p>
+               <hi>The great and grievous Oppreſsion of the</hi> SUBJECT; Exhibited in a <hi>REMONSTRANCE</hi> to the PARLIAMENT: <hi>Wherein is more particularly ſet forth,</hi> The unjuſt Dealings of the Two CORPORATIONS OF HULL AND HEADON In the County of <hi>YORK.</hi>
+            </p>
+            <p>
+               <hi>By</hi> ROBERT RAIKES <hi>Gent.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for the Author. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:119467:2"/>
+            <pb n="1" facs="tcp:119467:2"/>
+            <head>
+               <hi>For the Right Honorable</hi> The Supreme Authority of the Nation, the Commons aſſembled in Parliament,</head>
+            <head type="sub">The humble Petition of <hi>Robert Raikes</hi> of <hi>Headon,</hi> Gent.</head>
+            <opener>Humbly ſheweth unto your Honors,</opener>
+            <p>THat your Petitioner having been at all times, and in all changes a conſtant adherer to this preſent Parliament and Common<g ref="char:EOLhyphen"/>wealth, and by reaſon thereof hath ſuffered and ſuſtained great loſs and damage in his Eſtate, partly by reaſon of his goods the Soldiers under the Lord <hi>Fairfax</hi> took, uſed and burned of your petitioners, both at <hi>Selby</hi> and <hi>Hull;</hi> but more eſpecially by the violent and injuſt dealing of divers Malignants and Presbyterians in the town of <hi>Hull,</hi> and the baſe carriage and continual injuſt and illegal vexations of the Cavaliers and the drunken Aldermen of the town of <hi>Headon,</hi> theſe of <hi>Headon</hi> having from time to time ſought and laid wait for the life of your petitioner, and many times not only driven his goods, but lamed and ſpoiled his goods ſo driven, and in the night-time broken his fences, ſtollen his goods both cows and mare off his ground, and being ſo ſtollen have laid actions on them, and forced extraordinary and extrajudicial compoſitions. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>anting any Replevin for the goods ſo ſurreptiouſly ſtollen and take <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>y, threatning thoſe that came to meat the goods, ſeiſing and impriſoning of their perſons, and milking the cows and ſpoil<g ref="char:EOLhyphen"/>ing them, and countenancing the perſons that ſo did: Being a Town guilty of ſuppoſed murder, and of much bloodſhed, rapine, ſpoil, and per<g ref="char:EOLhyphen"/>verting of Juſtice; the Magiſtrates drunken, idle and vicious perſons, and all the Corporation for the moſt part little better, being a neſt of Cava<g ref="char:EOLhyphen"/>liers, Tinkers, drunken and malignant men, as your Petitioner doubteth not to make apparent to all the world, they having been along-cuſtomed to much miſchief, and likely they are to commit more, threatning your Petitioner they will make the town of <hi>Headon</hi> too hot for him; having beſides lying in wait to kill him, aſſaulted him in his own houſe, wound<g ref="char:EOLhyphen"/>ed and beat him down in his own court-yard with halberts, dragged him out of his own houſe-porch and all along to priſon, refuſing Bail proffered by better men then any the drunken Aldermen his proſecutors, to the great hazard of his life, as may more plainly and ſully appear in a Diſ<g ref="char:EOLhyphen"/>courſe called <hi>The tranſcendent vilany of Headon;</hi> as alſo by the malicious Malignants and Presbyterians of <hi>Hull,</hi> who have by their clandeſtine dealing, and after by open force and combination, without and againſt all law and equity and good conſcience, put your Petitioner out of a
+<pb n="2" facs="tcp:119467:3"/>certain Houſe-leaſe granted unto him formerly under the Hoſpital com<g ref="char:EOLhyphen"/>mon ſeal and the Maſters hand, witneſſed by the Mayor and ſix Aldermen, to his damage in his trade and calling to the value of Three thouſand pounds, even to his utter undoing.</p>
+            <p>
+               <hi>May it therefore pleaſe your Honors to refer your Petitioner to ſome Committee, who may order the Juſtices and others whom they think fit in the Country; to take the Grievances aforeſaid into examination, that upon enquiry the honorable Houſe may be certi<g ref="char:EOLhyphen"/>fied in the truth of the premiſſes, and thereupon order relief to your Petitioner as they ſhall ſee cauſe; and your Petitioner doubteth not but to make apparent his wrongs aforeſaid, and that the Commonwealth will receive profit by examining the Charters of the town of</hi> Hull, <hi>upon which your Petitioners Leaſe is grounded, and ſo much land concealed given for the maintenance of their Block-houſes, now a daily and great charge to the Commonwealth: But alſo a great deal of honor to your ſelves, and ſecurity to the Country, in binding to the Peace and Good-behaviour ſuch idle and evil diſpoſed perſons who ſhall appear guilty of ſuch crimes, and alſo in reſtoring the oppreſſed Inhabitants into the freedom of the reſt of the Country, to be governed by the Juſtices, and free from the vilanous extortions and oppreſsions of thoſe vitious and idle drunken lewd people, the Major and Aldermen of</hi> Headon, <hi>who neither know how to do right, or able to ſatisfie for the wrongs and in<g ref="char:EOLhyphen"/>juſtice they daily commit. And your Petitioner, as formerly, ſhall be ever ready to ſerve you and the Commonwealth with his life and eſtate, and ſhall ever pray for the continuance of your health, and your in<g ref="char:EOLhyphen"/>creaſe of honor, &amp;c.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>
+               <hi>A Liſt of the Aldermen of HEADON,</hi> As well the Drunken Aldermen, as the other, from the firſt to the laſt of their Officers.</head>
+            <p>
+               <hi>IMprimis,</hi> Mr. <hi>Liſter</hi> eldeſt Alderman, an old illiterate fellow, a Cooper, lives by mending old Tubs and Butter-firkins; in his youth a kind of Profeſſor, but in his age in his laſt Majoralty led by the drunken ſort, and did for ſix-pence in Ale put a Soldiers wife by violence out of her Jointure-houſe, againſt all law, equity and good conſcience; for which they gave him and his Officers two quarts of Ale more, in all ten penny<g ref="char:EOLhyphen"/>worth of Ale. A poor ſimple old man, his land and dwelling-houſe worth 4 <abbr>
+                  <hi>l.</hi>
+               </abbr> or 5 <hi>
+                  <abbr>l.</abbr> per annum:</hi> In whoſe time of Majoralty many oppreſſi<g ref="char:EOLhyphen"/>ons and falſe impriſonmentss hapned.</p>
+            <p n="2">2. <hi>Item,</hi> Mr. <hi>Burſtal,</hi> one of the drunken ſort, and a pitiful old illite<g ref="char:EOLhyphen"/>rate fellow, ſaving that he is qualified for one of their Aldermen, being
+<pb n="3" facs="tcp:119467:3"/>vicious and given to drink; hath Baſtards going in town that he owns, and is more careful of then of ſome of his beſt children; committed many abſurdities in his Majoralty by raiſing and miſpending of Aſſeſsments, falſe impriſonment of good people, and all other the ſcurvy tricks of the Town, to the great oppreſſion of the people, ſcandal of religion, and raiſing of ſuits and troubles: A man at firſt worth 16 <hi>
+                  <abbr>l.</abbr> per annum,</hi> but gave away to his ſons; now worth 5 <hi>
+                  <abbr>l.</abbr> per ann.</hi> or thereabouts.</p>
+            <p n="3">3. <hi>Item, Richard Southwick,</hi> formerly a Spademan laborer, now a Chandler, one of the drunken Aldermen, a man given to much lewdneſs and baſeneſs, a common drunkard and a ſottiſh fellow, will be drunk twice or oftner in a day, and taſte it roundly in a corner: One who com<g ref="char:EOLhyphen"/>mitted many abſurdities in his Majoraly, by raiſing and miſpending of taxes, and falſe impriſonment of men. Worth at firſt 10 <hi>
+                  <abbr>l.</abbr> per ann.</hi> now worth 6 <hi>
+                  <abbr>l.</abbr> per ann.</hi> or under. A pitiful, vicious, and illiterate fellow to make an Alderman of.</p>
+            <p n="4">4. <hi>Item, Thomas Burton,</hi> another of the drunken ſort, an illiterate fel<g ref="char:EOLhyphen"/>low; when his brother died, left ſhoo-making, and malted; had 12, or 14 <hi>
+                  <abbr>l.</abbr> per ann.</hi> but by his unjuſt and abſurd dealing in his Majoralty, and his vicious and lewd living, ſold ſome land, weakned his ſtock, and now not able to live but by his ſcandalous keeping of Mr. <hi>S.</hi> a Boarder. One who will not work at his trade, but idly given; committed many buſineſſes in his Majoralty, for which he ſtood before the Judge at <hi>York</hi>-Aſſizes: It's almoſt impoſſible to mention all his abſurdities and vilanies.</p>
+            <p n="5">5. <hi>Item, Robert Ambler,</hi> another of the drunken ſort of Aldermen; firſt a Spademan, but after the death of his Uncle, an Alderman and Tanner, worth 14 <hi>
+                  <abbr>l.</abbr> per ann.</hi> or thereabouts; but by his evil and injuſt dealing in his Majoralties weakned his eſtate, ſold ſome land, ran into debt by his evil husbandry in drinking and other vicious courſes: In his firſt Majoralty committed many vilanies, had like to have murdered one <hi>Thomas Smeadley</hi> in his bed, and had made an end of him, had not the Troopers reſcued him from death: In his ſecond Majoralty com<g ref="char:EOLhyphen"/>mitted many abſurdities by falſe impriſonment, and raiſing of taxes and miſpending of them with much lewdneſs; A common drunkard, and one that is viciouſly given; had a conteſt with a Dutch D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctor about the curing the heat of his codpiece, to the great ſcandal of Religion, and the Corporations diſcredit.</p>
+            <p n="6">6. <hi>Item,</hi> one <hi>Robert Blanſherd</hi> another of the drunken Aldermen, a Joiner, a common drunkard, and an illiterate fellow, and a Cavalier againſt <hi>Hull,</hi> made (though unskilfully) thoſe wooden Fire-works did occaſion ſo much death at <hi>Cortingham</hi> when <hi>Hull</hi> was beſieged, both of Kings party and other good people: One who had drunk himſelf deep in debt, but by begging for the fire hath gotten into ſome ſtock, and is 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> better then he was; which in regard of his lewd and vicious living will not laſt long. One that had a hand in the death of Mr <hi>Ethring<g ref="char:EOLhyphen"/>ton,</hi> and many other cheats and falſe dealing, being not able to ſatisfie for the wrongs by him done: His eſtate worth 12 <hi>
+                  <abbr>s.</abbr> per ann.</hi> beſides his houſe.</p>
+            <pb n="4" facs="tcp:119467:4"/>
+            <p n="7">7. <hi>Item, Richard Barns</hi> once a Blackſmith, but by getting two widows turn'd a Baker; the richeſt man among them, but ſimple and illiterate, as all the reſt are, and led by thoſe of the drunken ſort by reaſon of his ſimplicity, in the time of his Majoralty, into much lewdneſs, oppreſſion and vilany, about the driving of cattel, falſe impriſonment of men, and receiving of a ſtollen Mare, ſtollen by <hi>Thomas Newſon</hi> and ſome others by the counſel of <hi>Samuel Bains</hi> the Town-Clerk, and the ſaid <hi>Barns</hi> with the advice of the drunken Aldermen, with many other abſurdities too long to recite.</p>
+            <p n="8">8. <hi>Item, Nathaniel Norris</hi> now Major, a great Proſeſſor, but very Hypocrite; for he joineth with all the reſt in their vilanies and drunken courſes, and cauſed a falſe action to be laid on a ſtollen Mare, and falſly impriſoned and cauſed to be apprehdended a ſervant for meating her maſters cattel which he had cauſed unjuſtly to be driven and im<g ref="char:EOLhyphen"/>pounded, and after laid falſe actions of the ſaid cattel on purpoſe to get extrajudicial &amp; extraordinary compoſitions for fees for the Town-clerk, and to ſpend among the drunken Aldermen, refuſing Bail for the goods impounded. One that hath not a foot of land in all the town, and did give up ſhop at <hi>Hull,</hi> ſold his corn and ſtock off the ground to make himſelf Major of <hi>Headon;</hi> A drunken conſort as can be proved, is much in debt, and but little to pay with of his own goods.</p>
+            <p n="9">9. <hi>Item, Henry Stringer</hi> another of the Aldermen, a Shoomaker, a very pitiful ſimple fellow and illiterate, and very poor, and led alto<g ref="char:EOLhyphen"/>gether by the drunken ſort to all miſchief and vilany, worth 40 <hi>
+                  <abbr>s</abbr> per ann.</hi> and his houſe.</p>
+            <p>
+               <hi>Item, Samuel Bayns</hi> Town-Clerk, a lewd and vitious perſon, formerly tryed for his life at <hi>Oxford</hi> for murder (as is reported) a common quar<g ref="char:EOLhyphen"/>reller and common drunkard, a keeper of an unlawful Tipling-houſe unlicenſed and irregular, and therein many quarrels, bloodſhed and ſuits are raiſed by him to the great diſturbance of Town and Country; for he holdeth there the meeting of Cavaliers and Papiſts, to hatch their continual plots againſt the Commonwealth and the good people there<g ref="char:EOLhyphen"/>of; as alſo there in his Tipling-houſe aforeſaid is hatched and contrived all the vilany of the drunken malignant Aldermen his confederates and aſſociates in miſchief; there alſo he contriveth all his falſe practiſes to pervert the Law, and lying in wait for blood and murder, falſifying and forging of Records, to the great vexation of Town and Country; being alſo a common cheater and a cozener, and a great defrauder of mens eſtates that have to deal with him, having broken and compounded twice.</p>
+            <p>
+               <hi>Item, Thomas Robinſon</hi> Butcher, for his knavery made Sergeant at Mace, and one of the Attornies of the Court; a common drunkard, one that keeps a common and unlicenſed Tipling houſe where much vilany is hatched and contrived; a common Barrettor and betrayer of mens cauſes, taking upon him as an Attorney, being but an illiterate fellow; A common cheater, and one that often hath laid wait for blood, both againſt Mr. <hi>George Etherington</hi> and Mr. <hi>Raikes;</hi> and one that hath his Agents abroad to ſteal mens goods off their grounds, and drive their
+<pb n="5" facs="tcp:119467:4"/>cattel; and then with the advice of the drunken Aldermen and the lewd Town-Clerk, extort great compoſitions, and will ſuffer none of the relations of thoſe that come to meat and relieve the cattel, ſo to do, but viol ntly aſſaulteth and beateth them, and carrieth them priſoners to the Major, who alloweth all their evil dealing and countenanceth them therein, to the great ſpoil of mens goods and cattel, ſo that no man can ſay his goods are his own, if they may ſo be ſuffered to take them: And in that Town and Country there is no remedy; for the Country-Juſtices do not meddle therewith, or are ſuffered ſo to do, by reaſon of the Charter the ſaid Town doth plead, and thereby thinketh they may pervert juſtice as they themſelves liſt.</p>
+            <p>
+               <hi>Item, Richard Newton</hi> another of the Serjeants at Mace, a Tanner, and an illiterate fellow, a Dingthriſt and a common drunkard, a cheater and cozener at his Alehouſe-bargains and gaming at cards; made only an Officer for his knavery, falſe-ſwearing, and perverting of juſtice; being an Attorney alſo of the Court, but ſo illiterate both he and the other <hi>Robinſon,</hi> that neither of them can write their own name, at leaſt<g ref="char:EOLhyphen"/>wiſe neither of the ſaid Attornies <hi>Robinſon</hi> and <hi>Newton</hi> can write a De<g ref="char:EOLhyphen"/>claration, or indite any Plea of themſelves, being more verſed in knaviſh dealing and pilfering and driving mens goods off their grounds, and re<g ref="char:EOLhyphen"/>ceiving ſuch goods ſo pilfered off other mens grounds, Fence-breakers and Night-walkers to prey and feed their horſes of other mens grounds, then in any honeſt wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to diſcharge the place and office of Attorney as they ought to do; by reaſon whereof all Suits in that Court depending are carried as the knaviſh Town-Clerk will, and he will accept of no Declarations or Pleas but what he makes, nor will make none according to the Inſtructions given, though never ſo legal, but on purpoſe to pervert juſtice and overthrow the right of thoſe he hates, or help thoſe that will give him moſt for hire; taketh double or treble fees, a Suit formerly being tried for ſix or ſeven ſhillings, he hath now brought up to twenty four ſhillings, beſides bribes or gratuities he takes, ſo well known to the Country, none will ſo much as expect any juſtice from ſuch vile perſons. The ſaid <hi>Newton</hi> and <hi>Robinſon</hi> being alſo Night-walkers, and putting their own and the drunken Aldermens horſes, (the greateſt oppreſſion that can be, and indeed intolerable and inſufferable, that ſo many baſe, idle, drunken fellows, ſo idly and baſely given, ſhould be ſuffered to oppreſs the Inhabitants by eating up their grounds every year as they do) they putting forty or fifty horſes on their lanes (they call banks) which are inſufficient for ten horſe; and when the banks are bare, nay even at every Fare, they being ſo accuſtomed have every year, and do this year alſo enter the neighboring grounds to the ſaid banks, all their Town<g ref="char:EOLhyphen"/>ſhip conſiſting but of nineſcore acres, and half of them being and belong<g ref="char:EOLhyphen"/>ing to Foreiners, for ſo they call all them not within their baſe juriſ<g ref="char:EOLhyphen"/>diction, and that will not allow of their baſe dealings as above-written, they continually eat and oppreſs the ſtrangers grounds, and no remedy therefore, being a general practice and done in the night by baſe beggerly Night-walkers ſet on by the perſons above, who never yet gave any re<g ref="char:EOLhyphen"/>medy for ſo general and great a grievance, the Juſtices in the Country
+<pb n="6" facs="tcp:119467:5"/>having no power to right ſuch Grievances in their Corporation.</p>
+            <p>
+               <hi>Item,</hi> their other Officers, two Conſtables choſen for their knavery, well verſed, and if not, muſt learn all the vilany aforeſaid, if they mean to be Churchwardens, and ſo Bailiffs, and at laſt drunken Alder<g ref="char:EOLhyphen"/>men, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> The Pinder one <hi>Foſter,</hi> a notorious Pilferer, Nightwalker, and one reported to be a notorious Thief and inſufferable Vilain; keeps both Horſe and Cow, buyes little or no Hay; and if any, at years end ſells more then he buyes, and ſteals other mens Hay in the night. All the other Officers being but ſlaves and bloodhounds to ſerve the baſe luſt and commands of their Major and drunken Aldermen; nay it is report<g ref="char:EOLhyphen"/>ed, all the Burgeſſes do ſwear at their making free to do whatſoever the Major ſhall command them; by which much vilany is executed as above, and more, which I leave to your Honors to ſee remedied.</p>
+         </div>
+         <div type="part">
+            <head>The ſeveral Miſdemeanors which the Drunken Aldermen practiſe in the Corporation of <hi>Headon,</hi> both by Commiſsion, and toleration and connivence.</head>
+            <p>
+               <hi>IMprimis,</hi> They tolerate the Town clerk, who is a wicked lewd fellow in all his wickedneſs, being a man formerly tried for murder at <hi>Ox<g ref="char:EOLhyphen"/>ford;</hi> A common drunkard and common quarreller, and a raiſer of ſeditions and fomenter of quarrels and ſuits, a lier in wait for blood, a felonious ſtealer of mens goods off their ground, and a receiver, coun<g ref="char:EOLhyphen"/>ſeller, and abetter of thoſe that ſo ſteal mens goods off their grounds, a Night-walker, and perverter of juſtice; and borne out in all theſe by the lewdneſſes of the drunken Aldermen aforeſaid, to the great diſturb<g ref="char:EOLhyphen"/>ance of the publike peace.</p>
+            <p>
+               <hi>Item,</hi> A keeper of unlicenſed Tipling-houſes, ſelling Ale contrary to the Statute, and a common Cheater. In all which he is upholden by the drunken Aldermen aforeſaid.</p>
+            <p>
+               <hi>Item,</hi> That after he had come from his Trial at <hi>Oxford,</hi> and from pra<g ref="char:EOLhyphen"/>ctiſing his bloody tricks as a cut-throat Cavalier, keeping at <hi>Headon</hi> a common Tipling-houſe unlicenſed, and as a Cheater had compounded twice to cozen men and make them take leſs then their due for their own, yet could not he forbear, but muſt needs continue his cozening and quarrelling, cheating and ſeditious practiſes in his lewd Tipling-houſe, cozening <hi>Robert Swack</hi> and others by raiſing and ſtirring up Suits when by him inticed to drink, raiſing divers quarrels, and among the reſt, among the Tinkers of the Country, he ſet together by the ears and made parties among them being drinking with him, and ſo ordered
+<pb n="7" facs="tcp:119467:5"/>their quarrels, that thoſe of the Cavalier-party ſhould get the better and eſcape, and thoſe of the Parliaments party that had been their Soldiers, being lamed and beaten by his wicked contriving, to be falſly impriſon<g ref="char:EOLhyphen"/>ed, and after long Impriſonment to be let go without any charge againſt them, beſides many other quarrels he hath raiſed, and much bloodſhed cauſed by lying in wait for the life of Mr. <hi>George Etherington,</hi> by breaking his ſtable-door and ſeiſing his horſe, proſecuting the ſaid Mr. <hi>Ethrington</hi> even to death when his goods were gone: And as greatly ſuſpected to have occaſioned the death of the ſaid Mr. <hi>Etherington</hi> by laying violent hands on him at <hi>Paul, Newton</hi>'s garth, and <hi>Headon,</hi> whoſe death and mur<g ref="char:EOLhyphen"/>der would be inquired into.</p>
+            <p>Nor did his murderous intentions reſt there, but at the ſame time he alſo laid wait for the life of Mr. <hi>Robert Raikes;</hi> and for many days to<g ref="char:EOLhyphen"/>gether on purpoſe to take the life of the ſaid <hi>Robert Raikes,</hi> encouraged his Cut-throats he had hired, and that by the drunken Aldermens aid, advice and connivence; by whoſe wicked practices after much lying in wait, the ſaid Cut-throats aſſaulted the ſaid <hi>Robert Raikes</hi> in his own houſe, knockt him down with Black bills and other unlawful weapons, beat and wounded him, and having ſo beat and wounded him in his own houſe, dragged him therefrom by the heels all along the ſtreets to priſon, the ſame day Mr. <hi>Etherington</hi> was buried; the neighbors crying out of their murder and vilanous cruelty, bidding them take heed of committing one murder after another, and bade them firſt clear them<g ref="char:EOLhyphen"/>ſelves of one murder before they committed another upon the body of the ſaid <hi>Robert Raikes;</hi> the death of Mr. <hi>Etherington</hi> being freſh in every ones memory, and ſuppoſed by their cruelty to be made away, which cauſed ſuits and many troubles.</p>
+            <p>Yet did not their cruelty ſo reſt, but the drunken Aldermen being all combined to countenance ſuch vilany, after long and falſe impriſonment, when they could prove nothing juſt and legal againſt the ſaid <hi>Robert Raikes</hi> at the Seſſions, yet out of meer malice they tyed him to his good abearing without ſhewing any cauſe why, and yet would not ſuffer him to live in quiet, but hired lewd and vitious perſons to intercept him, and without cauſe carried him to priſon, and ſcandalizing him with lyes and untruths, but never proved any thing againſt him to this day, but on purpoſe to lame, beat and take the life away of the ſaid <hi>Robert Raikes,</hi> and to pervert the courſe of Law and Juſtice, and that by the whole Court of Aldermen in their drunken Seſſions. Nor did their malice ſo ceaſe, but the drunken Aldermen and Towns-Clerk cauſed the Fences of the ſaid <hi>Robert Raikes</hi> to be broken down; and their lewd Under<g ref="char:EOLhyphen"/>lings whom they keep to ſwear for them in all their vilany, eat up the ground of the ſaid <hi>Robert Raikes</hi> to his great damage; and the Fences which the Town and their Tenants, being Town-Officers, ſhould make up and repair, neither the drunken Aldermen nor their lewd Officers would or could be perſwaded to repair, but on the con<g ref="char:EOLhyphen"/>trary made a great deep ditch or pit juſt at the lane where he ſhould have carried his goods out and in, on purpoſe to deſtroy and lame and kill thoſe beaſts of Mr. <hi>Raikes</hi> which they had deſigned to deſtroy in the
+<pb n="8" facs="tcp:119467:6"/>ſaid pit, and ſhould come upon his ground, and carried their own goods hrough Mr. <hi>Raikes</hi> and other mens ground, by reaſon the pit they had made to deſtroy mens goods at the entry of their own, having ſo ſpoiled his goods about ſeventeen head of beaſts one time and other. They laid and contrived three falſe Actions, and arreſted the ſaid <hi>Robert Raikes;</hi> which was contrived by the Town-Clerk and <hi>Paget,</hi> two Cavalier-knaves: <hi>Paget</hi> declared for Twenty four ſhillings for fees, and the Town-Clerk ſwore falſly the ſaid <hi>Robert Raikes</hi> owed ſo much within a little for fees, and promiſed to pay him, &amp;c. being altogether falſe: For the ſaid <hi>Robert Raikes</hi> never imployed <hi>Paget,</hi> or ever was owing him any thing for fees, but imployed one <hi>Smailes</hi> to reverſe an Out<g ref="char:EOLhyphen"/>lawry, and gave him money to diſcharge it and over: But who did it is not known; for <hi>Smailes</hi> is upon the Record, and had the money, though he did it knaviſhly, falſly, and contrary to his Attornies oath, as by <hi>Smailes</hi> Note of charges may appear: For, for <hi>Paget,</hi> he never was im<g ref="char:EOLhyphen"/>ployed nor truſted ſo much then, or allowed to practiſe, nor never did or could prove any ſuch fees due he ſued for.</p>
+            <p>The other two Actions were for ſlandering the Town Clerk for ſwearing ſo falſly: But that he ſwore falſly, is apparent by Record, no Fees proved or due. And the laſt was a falſe Action for a ſuppoſed Debt the Town-Clerk challenged falſly, it being paid before, and never was a quarter ſo much, as by his hand may appear; but he did it on purpoſe to cheat the ſaid Mr. <hi>Raikes</hi> of a parcel of Cuſhions he bought of him, and never paid for. Neither did they keep their Courts order, by reaſon they were all imployed about begging for the Fire, and abuſing the Juſtices to make them a Certificate according to the falſe oaths and in<g ref="char:EOLhyphen"/>formations by them exhibited; by means whereof they got a large Patent, and by it and their begging got two times more then all their loſſes were by fire, but ſpent a great part of it as their drunken meet<g ref="char:EOLhyphen"/>ings, as they do of all their Eſtreats and Forfeitures at the Seſſions, and all other the Towns ſtock, that was not long ſince worth above Fifteen hundred pounds; beſides their daily Re<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s and Forfeitures, whereof few are brought to account, but almoſt all idly ſpent as can be eaſily proved. And as that was, which by a vile and illegal way they extorted from <hi>Robert Raikes,</hi> ſending for him by a Serjeant, who is alſo Attorney of the Court, and under pretence of friendſhip by the new Major, who promiſed he might ſafely come and gow<g ref="char:punc">▪</g> The ſaid <hi>Robert Raikes</hi> went along to know their pleaſure, which the new Major told him, the Court had fined him Twenty ſhillings for contempts for not appearing to the Actions. He replied, He had deſired to ſee their Declarations, but there were none in Court; and if any were then, he deſired to ſee them; but none appeared till fourteen days after. Then they ſaid, He ſhould have fee'd his Attorney and anſwered Court-days: He replied, They were ſo buſie about their Certificate, there was no legal Court kept: They ſaid there was; But it was proved that their Court was neither legally kept, the doors being lock'd, none could come in, nor any At<g ref="char:EOLhyphen"/>torney to fee there. But they ſaid, If the Attorney was not there, his Wife was, and would have received Fee, having let the Major and Clerk
+<pb n="9" facs="tcp:119467:6"/>in at a back-door. So becauſe none could get in to ſee the Serjeant or Jailors wife for an Attorney, they threatned the ſaid Mr. <hi>Raikes,</hi> unleſs he would pay them Twenty ſhillings for that Contempt before Decla<g ref="char:EOLhyphen"/>rations, they would drive his goods, or impriſon him. Which the ſaid Mr. <hi>Raikes,</hi> knowing them to be Knaves that ſought his life, fearing they would uſe him as formerly, or as Mr. <hi>George Etherington,</hi> he became bound to pay them, and was forced ſo to do: But that would not ſo content them neither, but the Town-Clerk came violently upon the ground and chaſed his cows and cattel; which having been often uſed to be evil-intreated by thoſe lewd people, knew them and run from them into the far cloſe, ſo many as were formerly abuſed by them and knew their uſage; ſo that there was but one cow left which was not acquaint<g ref="char:EOLhyphen"/>ed with their cruelty, and that the Town-clerk ſtole off the ground, be<g ref="char:EOLhyphen"/>longing to one <hi>Thomas Newſom,</hi> who was owing Mr. <hi>Raikes</hi> ten ſhillings for her graſs.</p>
+            <p>Upon what ſtrange compoſition the poor man had his Cow again, is uncertain: But the Town-clerk and drunken Aldermen, and the knaviſh Officers counſell'd the man to ſteal a Mare from off the ground of Mr. <hi>Raikes,</hi> that coſt ſix pounds; And having been counſellors and abettors to the man and his aſſociates in the ſtealing the Mare, they the ſaid Town-clerk, drunken Aldermen and Officers were the receivers of the Mare ſo ſtollen, knowing her to be ſo ſtollen: And the better to palli<g ref="char:EOLhyphen"/>ate the Felony, they cauſed an Action to be laid at the ſuit of <hi>Thomas Newſom,</hi> who with his aſſociates had ſtollen the Mare by their councel and abetting. The ſaid <hi>Raikes</hi> being at <hi>Hull,</hi> he ſent word and deſired to have his goods ſo ſtollen ſecured, and the Felony enquired after: But by ſuch baſe people could not get juſtice; Pilfering and ſuch dealing being publikely countenanced by the drunken Aldermen and their aſ<g ref="char:EOLhyphen"/>ſociates. So that the ſaid <hi>Robert Raikes</hi> can keep neither Cow, nor Horſe, nor Swine, for their pilfering; having had One hundred pounds worth of goods ſpoiled by their illegal dealings, and ten or twelve Swine worried by the Dogs of the drunken Aldermen, who keep them contrary to Law to wreck their malice upon their neighbors, to do them hurt. And for their High-ways, they cauſe their Juries to ſwear even what they liſt, ſometime one way, ſometime another way, as guided by the drunken Aldermen; and very few of the Burgeſſes but are guilty of raſh and falſe ſwearing, even concerning the High-ways, and the keeping their Fare; and are in all ſuch contrary ſwearing promiſed to be holden harmleſs by the drunken Aldermen and their aſſociates, and they led altogether by the Cavaliers to do miſchief to thoſe of the Parliaments party: The ſaid Town clerk having always councels, plottings and con<g ref="char:EOLhyphen"/>trivings of hurt, treaſon and miſchief, in the Tipling-houſe of the ſaid Town-clerk, by all the Papiſts and Cavaliers in the Country; which though the Aldermen know, and Mr. <hi>Barns</hi> was often complaining of, yet he never remedied, nor any other of the drunken Aldermen; by reaſon whereof the good peaceable people live in great fear and danger of their lives by reaſon of the miſdemeanors aforeſaid.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
